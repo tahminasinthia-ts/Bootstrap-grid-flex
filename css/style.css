@@ -1,0 +1,22 @@
+.box{
+	margin-top:20px;
+	min-height:100px;
+	background:lightblue;
+	border:2px solid violet;
+	margin-bottom:20px;
+}
+h1, h4{
+	color:blue;
+	padding-bottom:20px;
+}
+.container
+{
+
+	background-color:#FCE9F1; 
+}
+.box1{
+	min-height:100px;
+	background:whitesmoke;
+	border:2px solid violet;
+	
+}
